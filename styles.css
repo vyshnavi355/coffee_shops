@@ -85,7 +85,7 @@ html {
 .home {
     min-height: 100vh;
     padding-top: 12rem;
-    background: url(pictures/home-bg.jpg) no-repeat center/cover;
+    background: url(home-bg.jpg) no-repeat center/cover;
     text-align: center;
     
 }
@@ -175,7 +175,7 @@ html {
 
 /* Menu */
 .menu {
-    background: url(pictures/menu-bg.jpg) no-repeat center/cover;
+    background: url(menu-bg.jpg) no-repeat center/cover;
 }
 
 .menu .box-container {
@@ -654,7 +654,7 @@ html {
 
 .breadcrumb{
     background-color: hsl(0,0%,93%);
-    padding-block: 1.5rem;
+    padding-block: 2.5rem;
   }
   .breadcrumb__list{
     column-gap: .75rem;
