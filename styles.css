@@ -654,7 +654,7 @@ html {
 
 .breadcrumb{
     background-color: hsl(0,0%,93%);
-    padding-block: 2.5rem;
+    padding-block: 1.5rem;
   }
   .breadcrumb__list{
     column-gap: .75rem;
